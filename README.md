@@ -43,3 +43,52 @@
   </div>
 </body>
 </html>
+
+
+
+#####
+#
+#
+#
+#
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  #
+  #
+  #
+  #
+  // Add a scroll event listener to the window object
+window.addEventListener('scroll', function() {
+  // Get the navbar element
+  var navbar = document.query
