@@ -1,11 +1,5 @@
 
 
-Fatigue Alert System.
-
-
-obuyajr17@gmail.com
-A readme file  on driver fatigue alert system 
-
 Driver Fatigue Alert System
 Introduction
 Driver fatigue is a leading cause of accidents on the road. In order to help prevent these accidents, a Driver Fatigue Alert System has been developed. This system is designed to detect signs of fatigue in a driver and alert them before an accident can occur.
