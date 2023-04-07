@@ -1,94 +1,31 @@
-# Fatigue-Driver
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="F:\Hephaestus' Cabin\New folder\style.css">
-  <script src="F:\Hephaestus' Cabin\New folder\script.js"></script>
-  <title>My Portfolio</title>
-</head>
-<body>
-  <div class="navbar">
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-  </div>
-  <div class="container">
-    <div id="home" class="section">
-      <h1>Welcome to my portfolio!</h1>
-      <p>I am a web developer and designer with a passion for creating beautiful and functional websites.</p>
-    </div>
-    <div id="about" class="section">
-      <h2>About Me</h2>
-      <p>I have been interested in web development and design for as long as I can remember. I have a degree in Computer Science and have worked on a variety of projects, both personal and professional.</p>
-      <p>In my free time, I enjoy learning new technologies and techniques, as well as experimenting with different design styles.</p>
-    </div>
-    <div id="projects" class="section">
-      <h2>Projects</h2>
-      <ul>
-        <li><a href="#">Project 1</a></li>
-        <li><a href="#">Project 2</a></li>
-        <li><a href="#">Project 3</a></li>
-      </ul>
-    </div>
-    <div id="contact" class="section">
-      <h2>Contact</h2>
-      <p>Feel free to contact me via email or social media:</p>
-      <ul>
-        <li><a href="#">Email</a></li>
-        <li><a href="#">Twitter</a></li>
-        <li><a href="#">LinkedIn</a></li>
-      </ul>
-    </div>
-  </div>
-</body>
-</html>
 
 
+Fatigue Alert System.
 
-#####
-#
-#
-#
-#
-body {
-    background-color: black;
-    color: white;
-    font-family: sans-serif;
-  }
-  
-  .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #333;
-    color: white;
-    padding: 20px;
-  }
-  
-  .navbar a {
-    color: white;
-    text-decoration: none;
-  }
-  
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  .section {
-    margin-bottom: 20px;
-  }
-  
-  h1, h2 {
-    text-align: center;
-  }
-  #
-  #
-  #
-  #
-  // Add a scroll event listener to the window object
-window.addEventListener('scroll', function() {
-  // Get the navbar element
-  var navbar = document.query
+
+obuyajr17@gmail.com
+A readme file  on driver fatigue alert system 
+
+Driver Fatigue Alert System
+Introduction
+Driver fatigue is a leading cause of accidents on the road. In order to help prevent these accidents, a Driver Fatigue Alert System has been developed. This system is designed to detect signs of fatigue in a driver and alert them before an accident can occur.
+
+Features
+The Driver Fatigue Alert System has the following features:
+
+Real-time detection of driver fatigue through the use of sensors
+An alert system that notifies the driver when fatigue is detected
+A dashboard that shows the driver their level of fatigue over time
+An adjustable sensitivity setting that allows the system to be customized to the driver's needs
+How it Works
+The Driver Fatigue Alert System uses a combination of sensors to detect signs of fatigue in a driver. These sensors include a camera that tracks the driver's eye movements, a microphone that monitors their breathing patterns, and a motion sensor that detects any sudden changes in the car's movement.
+
+When the system detects signs of fatigue, it will activate an alert. The alert can be in the form of an audible beep, a visual warning on the dashboard, or a vibration in the driver's seat. The alert will continue until the system detects that the driver is no longer fatigued.
+
+The system also includes a dashboard that shows the driver their level of fatigue over time. This allows the driver to see when they are most likely to become fatigued and take appropriate action to prevent it.
+
+Installation
+The Driver Fatigue Alert System can be installed in any car with minimal effort. The system consists of a small camera, microphone, and motion sensor that can be easily mounted in the car. The system is powered by the car's battery and can be easily connected to the car's dashboard.
+
+Conclusion
+The Driver Fatigue Alert System is an effective tool for preventing accidents caused by driver fatigue. By using a combination of sensors to detect signs of fatigue, the system can alert drivers before an accident can occur. The system is easy to install and can be customized to the driver's needs.
